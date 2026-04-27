@@ -2,7 +2,7 @@
   "name": "Bitcoin Saving",
   "short_name": "BTC Saving",
   "description": "비트코인 DCA 저축 현황 대시보드",
-  "start_url": "/btc-saving/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#0d1117",
   "theme_color": "#0d1117",
